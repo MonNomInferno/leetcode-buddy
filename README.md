@@ -3,7 +3,9 @@
 **Your AI coding companion helping solve questions.**  
 Stuck on a problem? This extension helps you by giving hints to the problem that get smarter each level.
 
+
 ---
+
 
 ## **✨ Features**
 
@@ -27,6 +29,7 @@ Stuck on a problem? This extension helps you by giving hints to the problem that
 
 ---
 
+
 ## **🛠️ Tech Stack**
 
 |**Technology**|**Purpose**|
@@ -37,6 +40,7 @@ Stuck on a problem? This extension helps you by giving hints to the problem that
 |Chrome Alarms API|Timed Hint Generation|
 |Groq API|AI Hint Generation|
 |Qwen 3 (default)|Large Language Model|
+
 
 ---
 
@@ -79,6 +83,7 @@ Level    Hint Level
 
 ---
 
+
 ## **🧩 Hint Levels**
 
 ### **🟢 Level 1**
@@ -107,7 +112,9 @@ Provides a stronger hint by suggesting the appropriate technique or data structu
 
 A tiny pseudocode outline for users who remain stuck—still without providing the full implementation.
 
+
 ---
+
 
 ## **📸 Preview**
 
@@ -120,7 +127,9 @@ assets/
 └── demo.gif
 ```
 
+
 ---
+
 
 ## **🚀 Installation**
 
@@ -145,7 +154,9 @@ about:debugging
 4. Click **Load unpacked**
 5. Select the project folder
 
+
 ---
+
 
 ## **🔑 Configure API Key**
 
@@ -154,7 +165,9 @@ about:debugging
 3. Choose your AI Model (only one for now)
 4. Set the desired hint interval
 
+
 ---
+
 
 ## **🎯 Future Improvements**
 
@@ -167,7 +180,9 @@ about:debugging
 - Local LLM support
 - Usage analytics
 
+
 ---
+
 
 ## **🤝 Contributing**
 
@@ -192,13 +207,17 @@ git push origin feature/new-feature
 
 5. Open a Pull Request 🚀
 
+
 ---
+
 
 ## **📜 License**
 
 Licensed under the **MIT License**.
 
+
 ---
+
 
 ```html
 <div align="center">
